@@ -195,7 +195,7 @@ function isCommand(message, cmd) {
 }
 
 // Bot token 
-client.login("PUT DISCORD TOKEN HERE");
+client.login("NTMxMDcyMTU1NjQ4MDAwMDAw.D25XLQ.mndL7C23xYXzo-zglRk5QIARoe4");
 
 // And dats the end :O
 // Not too hard is it...
